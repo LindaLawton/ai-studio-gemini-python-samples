@@ -1,5 +1,10 @@
 # ai-studio-gemini-python-samples
 
+My Name is Linda Lawton I am a AI/ML GDE.  I have been working with AI studio Gemini since 2023 when it was called bard or Palm api.
+
+I am slowing adding all of my samples here. 
+
+
 # .env 
 
 This file needs to contain your settings

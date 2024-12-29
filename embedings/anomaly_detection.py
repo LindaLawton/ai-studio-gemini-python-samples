@@ -50,8 +50,6 @@ if __name__ == "__main__":
     # Match label to target name index
     df_train['Class Name'] = df_train['Label'].map(newsgroups_train.target_names.__getitem__)
 
-
-
     # Take a sample of each label category from df_train
     SAMPLE_SIZE = 150
     df_train = (df_train.groupby('Label', as_index=False)
