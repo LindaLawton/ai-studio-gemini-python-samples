@@ -8,8 +8,9 @@ This file needs to contain your settings
 
     API_KEY=[Redacted]
 
-## Any model that supports text
+## Any model that supports Audio, images, videos, and text
 
-[Model List](https://ai.google.dev/gemini-api/docs/models/gemini) output must contain Text.
+[Model List](https://ai.google.dev/gemini-api/docs/models/gemini) input must contain Audio, images, videos, and text.
 
-    TEXT_MODEL_NAME=gemini-1.5-flash-latest
+    MODEL_NAME=gemini-1.5-flash-latest
+
