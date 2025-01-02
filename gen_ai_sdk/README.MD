@@ -1,0 +1,1 @@
+- [Google Gen AI SDKs](https://ai.google.dev/gemini-api/docs/sdks#python-quickstart)

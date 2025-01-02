@@ -1,4 +1,5 @@
 google-generativeai
+google-genai
 python-dotenv
 grpcio==1.60.1
 scikit-learn
