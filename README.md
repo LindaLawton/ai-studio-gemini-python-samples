@@ -14,6 +14,15 @@ This sample code uses the Python SDK to connect to AI studio gemini or gemini ap
 
 These samples are not intended to work with Vertex AI version of gemini.
 
+
+# Support
+
+I am here to help with these samples but if you need general help with Gemini there are sevral places you can go.
+
+- [Build with Google AI forum](https://discuss.ai.google.dev/)
+- [Discord google-dev-community](https://discord.com/invite/google-dev-community)  the Gemini-api channel.
+- [StackOverflow Google-Gemini Tag](https://stackoverflow.com/questions/tagged/google-gemini)
+
 # .env 
 
 This file needs to contain your settings
